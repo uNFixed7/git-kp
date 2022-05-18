@@ -8,4 +8,4 @@
 
 Увлекаюсь программированием и дизайном. 
 
-<img src="img/my.jpeg'">
+<img src="img/my.jpg'">
